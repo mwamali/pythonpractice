@@ -3,13 +3,13 @@ a = 10
 b = 5
 
 # Perform addition and print the result
-print("Addition:", a + b)
+print("Addition value:", a + b)
 
 # Perform subtraction and print the result
-print("Subtraction:", a - b)
+print("Subtraction value:", a - b)
 
 # Perform multiplication and print the result
-print("Multiplication:", a * b)
+print("Multiplication value:", a * b)
 
 # Perform division and print the result
-print("Division:", a / b)
+print("Division value:", a / b)
