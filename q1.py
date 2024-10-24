@@ -1,14 +1,15 @@
-a = 5
+# Assign values to variables a and b
+a = 10
 b = 5
 
-# Addition
+# Perform addition and print the result
 print("Addition:", a + b)
 
-# Subtraction
+# Perform subtraction and print the result
 print("Subtraction:", a - b)
 
-# Multiplication
+# Perform multiplication and print the result
 print("Multiplication:", a * b)
 
-# Division
+# Perform division and print the result
 print("Division:", a / b)
